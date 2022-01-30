@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Arun<br>
-   &nbsp-Aspiring Software developer<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;-Aspiring Software developer<br>
 Learning <br>
-   &nbsp-Machine learning<br>
-   &nbsp-Fullstack webdevelopment<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;-Machine learning<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;-Fullstack webdevelopment<br>
 Working on<br>
-   &nbsp-WebApp projects
+   &nbsp;&nbsp;&nbsp;&nbsp;-WebApp projects
