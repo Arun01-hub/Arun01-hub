@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Arun
-   -Aspiring Software developer
-Learning 
-   -Machine learning
-   -Fullstack webdevelopment
-Working on
-   -WebApp projects
+I am Arun<br>
+   <tab>-Aspiring Software developer<br>
+Learning <br>
+   <tab>-Machine learning<br>
+   <tab>-Fullstack webdevelopment<br>
+Working on<br>
+   <tab>-WebApp projects
