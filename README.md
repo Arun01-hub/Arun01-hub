@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-indent: 50px;text-align: justify; letter-spacing: 3px;font-color:#71EFA3;">
-  Hello! I am Arun, a CS student at Alagappa Chettiar Government College of Engineering and Technology. Currently learning Machine Learning and Fullstack Web Development. Working on some pretty cool web products as a side project. I primarily code with Python but am expanding my horizon to new tools based on the application domain.</div>
+
